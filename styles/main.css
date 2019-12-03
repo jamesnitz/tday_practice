@@ -1,0 +1,20 @@
+body{
+  border: 1px solid blue;
+}
+
+.hobbyList{
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.hobby{
+  border: 2px solid blue;
+}
+.wishList__card{
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.wish__card{
+  BORDER: 2px solid blue;
+}
